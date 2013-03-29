@@ -1,0 +1,2 @@
+serviceClass: com.pramati.test.client.GreetingService
+path: 4217AF4D03C11BFB020480D101A7BCD2.gwt.rpc
